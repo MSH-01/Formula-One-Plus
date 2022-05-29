@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formula One +</string>
+    <string name="news_headline">Headline</string>
+    <string name="news_subtitle">Author</string>
+    <string name="news_bio">Bio</string>
+    <string name="news_date">Date</string>
+    <string name="news_button_read">Read More</string>
+    <string name="news_image">Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="race_countdown">0D 00H 00M</string>
+    <string name="next_race">Next Race</string>
+    <string name="race_name">Race Name</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_standings">Standings</string>
+    <string name="menu_locations">Locations</string>
+</resources>
