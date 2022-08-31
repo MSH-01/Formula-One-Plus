@@ -30,3 +30,5 @@ local.properties
 
 # Android Profiling
 4-application/*.hprof
+
+*.DS_Store
